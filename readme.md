@@ -1,6 +1,6 @@
 # WooCommerce to PrestaShop
 ## Overview
-Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [WooCommerce to PrestaShop](https://www.shopping-cart-migration.com/shopping-cart-migration-options/6690-woocommerce-to-prestashop-migration?utm_source=github-articles&utm_medium=articles&utm_term=woocommerce-prestashop&utm_campaign=github.com) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current WooCommerce store. Thus, you’ll be able to move your WooCommerce store entities, including products, orders, customers, etc. to PrestaShop in a totally automated way.
+Cart2Cart Shopping Cart Migration service is a perfect tool to move your store’s data from [WooCommerce to PrestaShop](https://www.shopping-cart-migration.com/shopping-cart-migration-options/6690-woocommerce-to-prestashop-migration?utm_source=github.com&utm_medium=referral&utm_term=woocommerce-prestashop&utm_campaign=optimized-page) swiftly and securely. The data transfer takes only up to 5 minutes to set up and guarantees 100% uptime of your current WooCommerce store. Thus, you’ll be able to move your WooCommerce store entities, including products, orders, customers, etc. to PrestaShop in a totally automated way.
 ## What Data Can be Migrated?
 Cart2Cart will assist you in moving the following data entities from WooCommerce to PrestaShop:
 * **_Products_** (ID, Reference code, Short Description, Full Description, Status, Manufacturer, Tax Class, Sort Order, Sort Order in Category, Price, Special Price, URL, Meta Title, Meta Keywords, Meta Description, Attributes, Downloadable Products, Product Tags, Variants, Base Image, Additional Images, Cover, Quantity, Backorder);
@@ -16,7 +16,7 @@ Cart2Cart will assist you in moving the following data entities from WooCommerce
 * **_Multistore_**;
 * **_Multiple Languages_**.
  
-To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/6690-woocommerce-to-prestashop-migration?utm_source=github-articles&utm_medium=articles&utm_term=woocommerce-prestashop&utm_campaign=github.com).
+To get the full list of transferable entities, please check the table [here](https://www.shopping-cart-migration.com/shopping-cart-migration-options/6690-woocommerce-to-prestashop-migration?utm_source=github.com&utm_medium=referral&utm_term=woocommerce-prestashop&utm_campaign=optimized-page).
 ## What Are the Additional Migration Options?
 Users have the ability to choose some of the extra migration options to make the replatforming even more seamless and trouble-free:
 * _Clear current data on Target Store before Migration,_
@@ -34,9 +34,9 @@ Users have the ability to choose some of the extra migration options to make the
 * **Start Free Demo** to see how your WooCommerce store will look on the PrestaShop platform. You can move a limited number of data entities just within 30 minutes.  
 * **Launch the Full migration** of your store from WooCommerce to PrestaShop.
 
-Watch our [video tutorial](https://youtu.be/WSBE42mciDI?utm_source=github-articles&utm_medium=articles&utm_term=woocommerce-prestashop&utm_campaign=github.com) to see how easy it is to automatically migrate from WooCommerce to PrestaShop with the help of the Cart2Cart migration tool.
+Watch our [video tutorial](https://youtu.be/WSBE42mciDI?utm_source=github.com&utm_medium=referral&utm_term=woocommerce-prestashop&utm_campaign=optimized-page) to see how easy it is to automatically migrate from WooCommerce to PrestaShop with the help of the Cart2Cart migration tool.
  
-Check the detailed [guide on WooCommerce to PrestaShop migration](https://www.shopping-cart-migration.com/migration-guides/how-to-migrate-woocommerce-to-prestashop-cost-effectively-guide-for-entrepreneurs?utm_source=github-articles&utm_medium=articles&utm_term=woocommerce-prestashop&utm_campaign=github.com). 
+Check the detailed [guide on WooCommerce to PrestaShop migration](https://www.shopping-cart-migration.com/migration-guides/how-to-migrate-woocommerce-to-prestashop-cost-effectively-guide-for-entrepreneurs?utm_source=github.com&utm_medium=referral&utm_term=woocommerce-prestashop&utm_campaign=optimized-page). 
 ## Why Choose Cart2Cart?
 * **Simple 4-step migration** that will save your time and effort.
 * **No store’s downtime.** Your WooCommerce store will remain active during the replatforming process.
@@ -44,5 +44,5 @@ Check the detailed [guide on WooCommerce to PrestaShop migration](https://www.sh
 * **24/7 customer support** via live chat, phone, or ticket assistance.
 * **Flexible pricing policy.** The total migration cost depends on the amount of data you move to PrestaShop and the additional options you select.   
 * **Free demo available.** Move a limited number of data from WooCommerce to PrestaShop just within 30 minutes. No risk involved, no credit card required. 
-* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/16-prestashop?utm_source=github-articles&utm_medium=articles&utm_term=woocommerce-prestashop&utm_campaign=github.com)** that provides customers with the answers to the most common questions concerning PrestaShop migration.
+* **Extensive [FAQ section](https://www.shopping-cart-migration.com/faq/16-prestashop?utm_source=github.com&utm_medium=referral&utm_term=woocommerce-prestashop&utm_campaign=optimized-page)** that provides customers with the answers to the most common questions concerning PrestaShop migration.
  
